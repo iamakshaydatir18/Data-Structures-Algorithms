@@ -249,10 +249,33 @@ public class IterativeTraversalOnTree {
 		for(List a:list5) { 
 			System.out.println(" "+a);
 		}
-		Dequ
-		String ka ="1->2->";
-		ka = ka.substring(0, ka.length() -3);
-		System.out.println(ka);
+//		Dequ
+//		String ka ="1->2->";
+//		ka = ka.substring(0, ka.length() -3);
+//		System.out.println(ka);
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
